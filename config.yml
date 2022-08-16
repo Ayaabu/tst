@@ -22,10 +22,6 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another BungeeCord - Forced Host'
-    address: 172.18.0.7:25566
-    restricted: false
-  lobby5:
-    motd: '&1Just another BungeeCord - Forced Host'
     address: 172.18.0.8:25575
     restricted: false
 listeners:
