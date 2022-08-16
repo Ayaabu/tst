@@ -20,7 +20,7 @@ online_mode: false
 disabled_commands:
 - disabledcommandhere
 servers:
-  lobby4:
+  lobby:
     motd: '&1Just another BungeeCord - Forced Host'
     address: 172.18.0.7:25566
     restricted: false
